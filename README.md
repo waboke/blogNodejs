@@ -1,2 +1,2 @@
 # blogNodejs
-This is a simple blog application showing the end points for post new blog, get all blog, get a particular blog, and search blog. to post a blog a user most signup.
+This is a simple blog application showing the end points for posting a new blog, getting all blogs, getting a particular blog post, and search blog. To post a blog a user most signup and verify through thier email.
